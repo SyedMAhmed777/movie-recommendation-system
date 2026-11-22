@@ -1,0 +1,6 @@
+movie_id,title,similarity,shared_genres,explanation
+181,Return of the Jedi (1983),1.0,"Action, Adventure, Romance, Sci-Fi, War","Recommended because it shares these genres: Action, Adventure, Romance, Sci-Fi, War"
+172,"Empire Strikes Back, The (1980)",0.9129,"Action, Adventure, Romance, Sci-Fi, War","Recommended because it shares these genres: Action, Adventure, Romance, Sci-Fi, War"
+271,Starship Troopers (1997),0.8944,"Action, Adventure, Sci-Fi, War","Recommended because it shares these genres: Action, Adventure, Sci-Fi, War"
+498,"African Queen, The (1951)",0.8944,"Action, Adventure, Romance, War","Recommended because it shares these genres: Action, Adventure, Romance, War"
+62,Stargate (1994),0.7746,"Action, Adventure, Sci-Fi","Recommended because it shares these genres: Action, Adventure, Sci-Fi"

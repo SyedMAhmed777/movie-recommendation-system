@@ -1,0 +1,6 @@
+metric,value
+Baseline_RMSE,1.041744757128949
+Collaborative_Filtering_RMSE,0.9357798341391308
+RMSE_Improvement_Percent,10.171870054029153
+Precision@10_heldout,0.689101966873706
+Users_Evaluated,920.0

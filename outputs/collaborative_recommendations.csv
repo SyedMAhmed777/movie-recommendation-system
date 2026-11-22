@@ -1,0 +1,11 @@
+movie_id,title,predicted_rating,neighbor_count,explanation
+408,"Close Shave, A (1995)",5.0,9,Recommended based on ratings from 9 similar users.
+317,In the Name of the Father (1993),5.0,5,Recommended based on ratings from 5 similar users.
+516,Local Hero (1983),5.0,2,Recommended based on ratings from 2 similar users.
+517,Manhattan (1979),5.0,2,Recommended based on ratings from 2 similar users.
+525,"Big Sleep, The (1946)",5.0,2,Recommended based on ratings from 2 similar users.
+646,Once Upon a Time in the West (1969),5.0,2,Recommended based on ratings from 2 similar users.
+856,Night on Earth (1991),5.0,2,Recommended based on ratings from 2 similar users.
+1019,"Die xue shuang xiong (Killer, The) (1989)",5.0,2,Recommended based on ratings from 2 similar users.
+1134,Get on the Bus (1996),4.989644083403861,2,Recommended based on ratings from 2 similar users.
+750,Amistad (1997),4.986754977449115,4,Recommended based on ratings from 4 similar users.
