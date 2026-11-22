@@ -22,19 +22,19 @@ The project includes an interactive web interface, recommendation explanations, 
 
 Select a movie and explore recommendations based on genre similarity.
 
-![Discover Movies](screenshots/discover-movies.png)
+![Discover Movies](screenshots/Discover_Movies.png)
 
 ### For You
 
 Generate personalized recommendations using a MovieLens user ID.
 
-![For You](screenshots/for-you.png)
+![For You](screenshots/For_You.png)
 
 ### Model Insights
 
 Explore the model's performance and evaluation results.
 
-![Model Insights](screenshots/model-insights.png)
+![Model Insights](screenshots/Model_Insights.png)
 
 ## Dataset
 
